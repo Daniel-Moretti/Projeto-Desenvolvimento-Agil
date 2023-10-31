@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "image": "D:/FotosCatalogoProjeto/9.png",
+    "description": "Body em Renda",
+    "code": "900",
+    "sizes": ["P", "M", "G", "GG"],
+    "colors": [
+      {
+        "color": "Very Perry",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/azul-icon.png"
+      },
+      {
+        "color": "Preto",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/black-icon.png"
+      },
+      {
+        "color": "Verde Etereo",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/etereo-icon.png"
+      },
+      {
+        "color": "Nude",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/nude-icon.png"
+      },
+      {
+        "color": "Odalisca",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/odalisca-icon.png"
+      },
+      {
+        "color": "Pantera",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/pantera-icon.png"
+      },
+      {
+        "color": "Vermelho",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/red-icon.png"
+      },
+      {
+        "color": "Romance",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/romance-icon.png"
+      },
+      {
+        "color": "Satim",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/satim-icon.png"
+      },
+      {
+        "color": "Branco",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/white-icon.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "D:/FotosCatalogoProjeto/5.png",
+    "description": "Body em tule",
+    "code": "800",
+    "sizes": ["P", "M", "G", "GG"],
+    "colors": [
+      {
+        "color": "Very Perry",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/azul-icon.png"
+      },
+      {
+        "color": "Preto",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/black-icon.png"
+      },
+      {
+        "color": "Verde Etereo",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/etereo-icon.png"
+      },
+      {
+        "color": "Nude",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/nude-icon.png"
+      },
+      {
+        "color": "Odalisca",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/odalisca-icon.png"
+      },
+      {
+        "color": "Pantera",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/pantera-icon.png"
+      },
+      {
+        "color": "Vermelho",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/red-icon.png"
+      },
+      {
+        "color": "Romance",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/romance-icon.png"
+      },
+      {
+        "color": "Satim",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/satim-icon.png"
+      },
+      {
+        "color": "Branco",
+        "icon": "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/icons-colors/white-icon.png"
+      }
+    ]
+  }
+]
