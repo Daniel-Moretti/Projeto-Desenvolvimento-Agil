@@ -2,7 +2,8 @@ import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
   container: {
-    //flexDirection: 'row',
+    flexDirection: "column",
+    //width: "40%",
     padding: 16,
     borderWidth: 1,
     borderColor: "gray",
@@ -11,8 +12,8 @@ export const styles = StyleSheet.create({
   image: {
     width: 100,
     height: 100,
-    resizeMode: "cover",
-    marginBottom: 10,
+    //resizeMode: "cover",
+    //marginBottom: 10,
   },
   colorsContainer: {
     flexDirection: "row",

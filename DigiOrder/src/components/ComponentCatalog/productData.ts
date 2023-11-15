@@ -1,20 +1,28 @@
-// productData.ts
-import productJson from "D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/Data/products.json"; // Substitua pelo caminho real do arquivo JSON
-
-interface ColorInfo {
-  color: string;
-  icon: string;
-}
-
+import { ImageSourcePropType } from "react-native";
 export interface Product {
   id: number;
-  image: string;
+  image: ImageSourcePropType;
   description: string;
   code: string;
   sizes: string[];
-  colors: ColorInfo[];
 }
 
-const productData: Product[] = productJson;
+
+const productData: Product[] = [
+  {
+    id: 1,
+    image: require("D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/FotosCatalogo/foto1.png"),
+    description: "Body em Renda",
+    code: "900",
+    sizes: ["P", "M", "G", "GG"],
+  },
+  {
+    id: 2,
+    image: require("D:/Projetos/Projeto-Desenvolvimento-Agil/DigiOrder/assets/FotosCatalogo/foto2.png"),
+    description: "Body em tule",
+    code: "800",
+    sizes: ["P", "M", "G", "GG"],
+  },
+];
 
 export default productData;

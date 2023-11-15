@@ -8,7 +8,7 @@ export function Catalogo() {
     
   return (
     <View style={styles.container}>
-      <FlatList
+      <FlatList 
         data={productData}
         keyExtractor={(item) => item.id.toString()}
         renderItem={({ item }) => <ComponentCatalog product={item} />}
