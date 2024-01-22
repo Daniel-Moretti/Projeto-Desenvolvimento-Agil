@@ -1,17 +1,18 @@
 import React from 'react';
-import { Image, View, Text } from 'react-native';
+import { Image, View, Text, ImageSourcePropType } from 'react-native';
 import { styles } from './styles';
-import { Icons } from './iconColors';
+import { Icons } from '../ComponentCatalog/iconColors';
 
 interface ColorIconProps {
-  icons: Icons;
+  colorName: String;
+  icon: ImageSourcePropType;
 }
 
-function ColorIcon({ icons }: ColorIconProps) {
+function ColorIcon({ icon, colorName }: ColorIconProps) {
   return (
     <View style={styles.colorItem}>
-      <Text >{icons.colorName}</Text>
-      <Image source={icons.icon} style={styles.colorIcon} />
+      <Text >{colorName}</Text>
+      <Image source={icon} style={styles.colorIcon} />
     </View>
   );
 }
