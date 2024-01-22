@@ -6,9 +6,9 @@ export const styles = StyleSheet.create({
       alignItems: 'center',
     },
     colorIcon: {
-      width: 5,
-      height: 5,
-      resizeMode: 'cover',
+      width: 25,
+      height: 25,
+      //resizeMode: 'cover',
     },
   });
   
